@@ -1,0 +1,1818 @@
+fileFormatVersion: 2
+guid: 18c1afbbe35584cdc94da26843ce6d66
+timeCreated: 1460089800
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dbzvegetasheet_0
+    21300002: dbzvegetasheet_1
+    21300004: dbzvegetasheet_2
+    21300006: dbzvegetasheet_3
+    21300008: dbzvegetasheet_4
+    21300010: dbzvegetasheet_5
+    21300012: dbzvegetasheet_6
+    21300014: dbzvegetasheet_7
+    21300016: dbzvegetasheet_8
+    21300018: dbzvegetasheet_9
+    21300020: dbzvegetasheet_10
+    21300022: dbzvegetasheet_11
+    21300024: dbzvegetasheet_12
+    21300026: dbzvegetasheet_13
+    21300028: dbzvegetasheet_14
+    21300030: dbzvegetasheet_15
+    21300032: dbzvegetasheet_16
+    21300034: dbzvegetasheet_17
+    21300036: dbzvegetasheet_18
+    21300038: dbzvegetasheet_19
+    21300040: dbzvegetasheet_20
+    21300042: dbzvegetasheet_21
+    21300044: dbzvegetasheet_22
+    21300046: dbzvegetasheet_23
+    21300048: dbzvegetasheet_24
+    21300050: dbzvegetasheet_25
+    21300052: dbzvegetasheet_26
+    21300054: dbzvegetasheet_27
+    21300056: dbzvegetasheet_28
+    21300058: dbzvegetasheet_29
+    21300060: dbzvegetasheet_30
+    21300062: dbzvegetasheet_31
+    21300064: dbzvegetasheet_32
+    21300066: dbzvegetasheet_33
+    21300068: dbzvegetasheet_34
+    21300070: dbzvegetasheet_35
+    21300072: dbzvegetasheet_36
+    21300074: dbzvegetasheet_37
+    21300076: dbzvegetasheet_38
+    21300078: dbzvegetasheet_39
+    21300080: dbzvegetasheet_40
+    21300082: dbzvegetasheet_41
+    21300084: dbzvegetasheet_42
+    21300086: dbzvegetasheet_43
+    21300088: dbzvegetasheet_44
+    21300090: dbzvegetasheet_45
+    21300092: dbzvegetasheet_46
+    21300094: dbzvegetasheet_47
+    21300096: dbzvegetasheet_48
+    21300098: dbzvegetasheet_49
+    21300100: dbzvegetasheet_50
+    21300102: dbzvegetasheet_51
+    21300104: dbzvegetasheet_52
+    21300106: dbzvegetasheet_53
+    21300108: dbzvegetasheet_54
+    21300110: dbzvegetasheet_55
+    21300112: dbzvegetasheet_56
+    21300114: dbzvegetasheet_57
+    21300116: dbzvegetasheet_58
+    21300118: dbzvegetasheet_59
+    21300120: dbzvegetasheet_60
+    21300122: dbzvegetasheet_61
+    21300124: dbzvegetasheet_62
+    21300126: dbzvegetasheet_63
+    21300128: dbzvegetasheet_64
+    21300130: dbzvegetasheet_65
+    21300132: dbzvegetasheet_66
+    21300134: dbzvegetasheet_67
+    21300136: dbzvegetasheet_68
+    21300138: dbzvegetasheet_69
+    21300140: dbzvegetasheet_70
+    21300142: dbzvegetasheet_71
+    21300144: dbzvegetasheet_72
+    21300146: dbzvegetasheet_73
+    21300148: dbzvegetasheet_74
+    21300150: dbzvegetasheet_75
+    21300152: dbzvegetasheet_76
+    21300154: dbzvegetasheet_77
+    21300156: dbzvegetasheet_78
+    21300158: dbzvegetasheet_79
+    21300160: dbzvegetasheet_80
+    21300162: dbzvegetasheet_81
+    21300164: dbzvegetasheet_82
+    21300166: dbzvegetasheet_83
+    21300168: dbzvegetasheet_84
+    21300170: dbzvegetasheet_85
+    21300172: dbzvegetasheet_86
+    21300174: dbzvegetasheet_87
+    21300176: dbzvegetasheet_88
+    21300178: dbzvegetasheet_89
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dbzvegetasheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 547
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -37.5}
+        - {x: 21.5, y: -37.5}
+        - {x: 21.5, y: 27.5}
+        - {x: 20.5, y: 32.5}
+        - {x: 12.5, y: 37.5}
+        - {x: -7.5, y: 37.5}
+        - {x: -21.5, y: 15.5}
+    - name: dbzvegetasheet_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 545
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -7}
+        - {x: 10.5, y: -4}
+        - {x: 20.5, y: -4}
+        - {x: 21.5, y: -1}
+        - {x: 21.5, y: 18}
+        - {x: 16.5, y: 30}
+        - {x: 7.5, y: 38}
+        - {x: -8.5, y: 38}
+        - {x: -21.5, y: 25}
+        - {x: -21.5, y: -38}
+        - {x: 10.5, y: -38}
+        - {x: 21.5, y: -36}
+        - {x: 21.5, y: -28}
+        - {x: 16.5, y: -12}
+    - name: dbzvegetasheet_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 545
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 39}
+        - {x: -19.5, y: 32}
+        - {x: -19.5, y: -39}
+        - {x: 19.5, y: -39}
+        - {x: 19.5, y: 39}
+    - name: dbzvegetasheet_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 540
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 25}
+        - {x: 6.5, y: 41}
+        - {x: -13.5, y: 41}
+        - {x: -16.5, y: 36}
+        - {x: -16.5, y: -37}
+        - {x: -15.5, y: -41}
+        - {x: 3.5, y: -41}
+        - {x: 7.5, y: -39}
+        - {x: 10.5, y: -33}
+        - {x: 7.5, y: -31}
+        - {x: 16.5, y: -9}
+    - name: dbzvegetasheet_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 547
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 37}
+        - {x: -20, y: 20}
+        - {x: -20, y: -37}
+        - {x: 12, y: -37}
+        - {x: 19, y: -34}
+        - {x: 20, y: -33}
+        - {x: 20, y: 30}
+        - {x: 18, y: 37}
+    - name: dbzvegetasheet_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 547
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -16.5}
+        - {x: 35, y: 11.5}
+        - {x: 10, y: 36.5}
+        - {x: -6, y: 36.5}
+        - {x: -31, y: 16.5}
+        - {x: -35, y: -16.5}
+        - {x: -35, y: -36.5}
+        - {x: -26, y: -36.5}
+        - {x: -19, y: -26.5}
+        - {x: 0, y: -35.5}
+        - {x: 23, y: -35.5}
+    - name: dbzvegetasheet_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 551
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 35.5}
+        - {x: -11, y: 33.5}
+        - {x: -16, y: 24.5}
+        - {x: -16, y: 15.5}
+        - {x: -15, y: 13.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: -23.5}
+        - {x: 4, y: -35.5}
+        - {x: 16, y: -35.5}
+        - {x: 16, y: 28.5}
+        - {x: 9, y: 35.5}
+    - name: dbzvegetasheet_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 546
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 36.5}
+        - {x: -26, y: 36.5}
+        - {x: -33, y: 19.5}
+        - {x: -33, y: -20.5}
+        - {x: -18, y: -36.5}
+        - {x: 20, y: -36.5}
+        - {x: 33, y: -12.5}
+        - {x: 33, y: 29.5}
+        - {x: 31, y: 31.5}
+    - name: dbzvegetasheet_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 549
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 23}
+        - {x: -18.5, y: -36}
+        - {x: 18.5, y: -36}
+        - {x: 18.5, y: 10}
+        - {x: 16.5, y: 15}
+        - {x: 4.5, y: 36}
+        - {x: -10.5, y: 36}
+    - name: dbzvegetasheet_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 549
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 4}
+        - {x: 29, y: 20}
+        - {x: 21, y: 33}
+        - {x: 15, y: 35}
+        - {x: -8, y: 35}
+        - {x: -29, y: -18}
+        - {x: -29, y: -35}
+        - {x: 5, y: -35}
+        - {x: 15, y: -13}
+        - {x: 15, y: -4}
+        - {x: 28, y: 1}
+    - name: dbzvegetasheet_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 552
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 33.5}
+        - {x: -20.5, y: 15.5}
+        - {x: -20.5, y: -4.5}
+        - {x: -17.5, y: -6.5}
+        - {x: -14.5, y: -6.5}
+        - {x: -10.5, y: -2.5}
+        - {x: -11.5, y: 4.5}
+        - {x: -10.5, y: 0.5}
+        - {x: -10.5, y: -5.5}
+        - {x: -9.5, y: -33.5}
+        - {x: 18.5, y: -33.5}
+        - {x: 20.5, y: -28.5}
+        - {x: 20.5, y: 29.5}
+        - {x: 17.5, y: 33.5}
+    - name: dbzvegetasheet_11
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 546
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 37.5}
+        - {x: -20.5, y: 37.5}
+        - {x: -20.5, y: -37.5}
+        - {x: -9.5, y: -37.5}
+        - {x: 20.5, y: -16.5}
+        - {x: 20.5, y: 21.5}
+    - name: dbzvegetasheet_12
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 547
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 37}
+        - {x: -20, y: 20}
+        - {x: -20, y: -37}
+        - {x: 12, y: -37}
+        - {x: 19, y: -34}
+        - {x: 20, y: -33}
+        - {x: 20, y: 30}
+        - {x: 18, y: 37}
+    - name: dbzvegetasheet_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 541
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 7.5}
+        - {x: 9.5, y: 7.5}
+        - {x: 11.5, y: 7.5}
+        - {x: 19.5, y: 14.5}
+        - {x: 18.5, y: 32.5}
+        - {x: 1.5, y: 38.5}
+        - {x: -24.5, y: 38.5}
+        - {x: -28.5, y: 34.5}
+        - {x: -28.5, y: -11.5}
+        - {x: -2.5, y: -38.5}
+        - {x: 22.5, y: -38.5}
+        - {x: 28.5, y: -29.5}
+        - {x: 28.5, y: -5.5}
+        - {x: 25.5, y: 6.5}
+    - name: dbzvegetasheet_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 457
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 40.5}
+        - {x: -12, y: 40.5}
+        - {x: -15, y: 39.5}
+        - {x: -23, y: 1.5}
+        - {x: -23, y: -40.5}
+        - {x: -14, y: -40.5}
+        - {x: -7, y: -30.5}
+        - {x: 12, y: -39.5}
+        - {x: 23, y: -39.5}
+    - name: dbzvegetasheet_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 465
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 33}
+        - {x: -17.5, y: -29}
+        - {x: -8.5, y: -33}
+        - {x: 14.5, y: -33}
+        - {x: 17.5, y: -16}
+        - {x: 17.5, y: 33}
+    - name: dbzvegetasheet_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 458
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 38}
+        - {x: -16, y: -28}
+        - {x: -9, y: -38}
+        - {x: 5, y: -38}
+        - {x: 16, y: 4}
+        - {x: 16, y: 34}
+        - {x: -1, y: 38}
+    - name: dbzvegetasheet_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 469
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 22.5}
+        - {x: 7.5, y: 31.5}
+        - {x: -27.5, y: 31.5}
+        - {x: -34.5, y: 28.5}
+        - {x: -34.5, y: -31.5}
+        - {x: 11.5, y: -31.5}
+        - {x: 34.5, y: -15.5}
+        - {x: 34.5, y: 20.5}
+        - {x: 29.5, y: 24.5}
+    - name: dbzvegetasheet_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 471
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: -25.5}
+        - {x: -29.5, y: -31.5}
+        - {x: -5.5, y: -31.5}
+        - {x: 33.5, y: -2.5}
+        - {x: 33.5, y: 19.5}
+        - {x: 20.5, y: 31.5}
+        - {x: -28.5, y: 31.5}
+        - {x: -33.5, y: 12.5}
+    - name: dbzvegetasheet_19
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 462
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 39.5}
+        - {x: -21.5, y: 19.5}
+        - {x: -21.5, y: -39.5}
+        - {x: 21.5, y: -39.5}
+        - {x: 21.5, y: -11.5}
+        - {x: 9.5, y: 29.5}
+        - {x: -1.5, y: 39.5}
+    - name: dbzvegetasheet_20
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 465
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 37}
+        - {x: -23.5, y: -37}
+        - {x: 23.5, y: -37}
+        - {x: 23.5, y: 15}
+        - {x: 4.5, y: 37}
+    - name: dbzvegetasheet_21
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 471
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 33.5}
+        - {x: -20.5, y: 15.5}
+        - {x: -20.5, y: -4.5}
+        - {x: -17.5, y: -6.5}
+        - {x: -14.5, y: -6.5}
+        - {x: -10.5, y: -2.5}
+        - {x: -11.5, y: 4.5}
+        - {x: -10.5, y: 0.5}
+        - {x: -10.5, y: -5.5}
+        - {x: -9.5, y: -33.5}
+        - {x: 18.5, y: -33.5}
+        - {x: 20.5, y: -28.5}
+        - {x: 20.5, y: 29.5}
+        - {x: 17.5, y: 33.5}
+    - name: dbzvegetasheet_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 471
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 33.5}
+        - {x: -28.5, y: 33.5}
+        - {x: -35.5, y: 19.5}
+        - {x: -35.5, y: -22.5}
+        - {x: -8.5, y: -33.5}
+        - {x: 35.5, y: -33.5}
+        - {x: 35.5, y: -6.5}
+        - {x: 17.5, y: 29.5}
+    - name: dbzvegetasheet_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 477
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -17}
+        - {x: -29.5, y: -28}
+        - {x: -19.5, y: -30}
+        - {x: 31.5, y: -30}
+        - {x: 31.5, y: -12}
+        - {x: 17.5, y: 24}
+        - {x: 4.5, y: 30}
+        - {x: -20.5, y: 30}
+        - {x: -31.5, y: 20}
+    - name: dbzvegetasheet_24
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 469
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 36.5}
+        - {x: -7, y: 36.5}
+        - {x: -21, y: 25.5}
+        - {x: -21, y: -13.5}
+        - {x: -13, y: -36.5}
+        - {x: 5, y: -36.5}
+        - {x: 21, y: 4.5}
+        - {x: 21, y: 26.5}
+        - {x: 20, y: 31.5}
+    - name: dbzvegetasheet_25
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 473
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 30}
+        - {x: -17.5, y: 23}
+        - {x: -16.5, y: 19}
+        - {x: -14.5, y: 14}
+        - {x: -17.5, y: 5}
+        - {x: -17.5, y: -13}
+        - {x: -1.5, y: -27}
+        - {x: 5.5, y: -30}
+        - {x: 17.5, y: -30}
+        - {x: 17.5, y: 19}
+        - {x: 10.5, y: 30}
+    - name: dbzvegetasheet_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 390
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 29.5}
+        - {x: -19, y: 9.5}
+        - {x: -19, y: -29.5}
+        - {x: 19, y: -29.5}
+        - {x: 19, y: 5.5}
+        - {x: 14, y: 22.5}
+        - {x: 5, y: 29.5}
+    - name: dbzvegetasheet_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 391
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 28}
+        - {x: -20.5, y: -13}
+        - {x: -17.5, y: -27}
+        - {x: -15.5, y: -28}
+        - {x: 19.5, y: -28}
+        - {x: 20.5, y: -23}
+        - {x: 20.5, y: 15}
+        - {x: -7.5, y: 28}
+    - name: dbzvegetasheet_28
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 396
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -23.5}
+        - {x: 36.5, y: -23.5}
+        - {x: 36.5, y: 1.5}
+        - {x: 17.5, y: 23.5}
+        - {x: -36.5, y: 23.5}
+        - {x: -36.5, y: 1.5}
+    - name: dbzvegetasheet_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 395
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 29}
+        - {x: -20.5, y: -29}
+        - {x: 20.5, y: -29}
+        - {x: 20.5, y: -8}
+        - {x: 19.5, y: -5}
+        - {x: 8.5, y: 22}
+        - {x: 3.5, y: 29}
+    - name: dbzvegetasheet_30
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 398
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 28}
+        - {x: -23.5, y: 9}
+        - {x: -23.5, y: -28}
+        - {x: 20.5, y: -28}
+        - {x: 23.5, y: -8}
+        - {x: 23.5, y: 10}
+        - {x: 5.5, y: 28}
+    - name: dbzvegetasheet_31
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 393
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 14.5}
+        - {x: 9.5, y: 25.5}
+        - {x: -30.5, y: 25.5}
+        - {x: -32.5, y: 24.5}
+        - {x: -32.5, y: -23.5}
+        - {x: -30.5, y: -25.5}
+        - {x: -20.5, y: -25.5}
+        - {x: -14.5, y: -22.5}
+        - {x: 26.5, y: -23.5}
+        - {x: 32.5, y: -20.5}
+        - {x: 32.5, y: -2.5}
+    - name: dbzvegetasheet_32
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 393
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 22}
+        - {x: -34, y: -15}
+        - {x: -16, y: -22}
+        - {x: 15, y: -22}
+        - {x: 34, y: -4}
+        - {x: 34, y: 22}
+    - name: dbzvegetasheet_33
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 393
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 23}
+        - {x: -28.5, y: 11}
+        - {x: -28.5, y: -23}
+        - {x: 28.5, y: -23}
+        - {x: 28.5, y: 23}
+    - name: dbzvegetasheet_34
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 393
+        width: 75
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 17}
+        - {x: -37.5, y: 17}
+        - {x: -37.5, y: -17}
+        - {x: 20.5, y: -17}
+        - {x: 30.5, y: -14}
+        - {x: 37.5, y: -7}
+        - {x: 37.5, y: 0}
+        - {x: 8.5, y: 12}
+    - name: dbzvegetasheet_35
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 395
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 27.5}
+        - {x: -19, y: 14.5}
+        - {x: -23, y: -4.5}
+        - {x: -23, y: -27.5}
+        - {x: 8, y: -27.5}
+        - {x: 17, y: -24.5}
+        - {x: 22, y: -4.5}
+        - {x: 23, y: 5.5}
+        - {x: 23, y: 27.5}
+    - name: dbzvegetasheet_36
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 393
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 21}
+        - {x: -13.5, y: 21}
+        - {x: -28.5, y: 14}
+        - {x: -28.5, y: -15}
+        - {x: -18.5, y: -21}
+        - {x: -11.5, y: -21}
+        - {x: -6.5, y: -19}
+        - {x: -7.5, y: -12}
+        - {x: -10.5, y: -8}
+        - {x: 5.5, y: -20}
+        - {x: 8.5, y: -21}
+        - {x: 19.5, y: -21}
+        - {x: 28.5, y: -14}
+        - {x: 28.5, y: 19}
+    - name: dbzvegetasheet_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 299
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzvegetasheet_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 303
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 33}
+        - {x: -6.5, y: 33}
+        - {x: -29.5, y: -4}
+        - {x: -29.5, y: -33}
+        - {x: -12.5, y: -33}
+        - {x: 10.5, y: -25}
+        - {x: 29.5, y: -10}
+        - {x: 29.5, y: 27}
+        - {x: 28.5, y: 30}
+    - name: dbzvegetasheet_39
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 302
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -17.5}
+        - {x: -0.5, y: -22.5}
+        - {x: -0.5, y: -32.5}
+        - {x: 6.5, y: -35.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 18.5, y: 36.5}
+        - {x: -0.5, y: 36.5}
+        - {x: -9.5, y: 27.5}
+        - {x: -18.5, y: 12.5}
+        - {x: -18.5, y: -36.5}
+        - {x: -13.5, y: -36.5}
+        - {x: -2.5, y: -26.5}
+        - {x: 0.5, y: -20.5}
+    - name: dbzvegetasheet_40
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 304
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 35}
+        - {x: -20.5, y: 23}
+        - {x: -20.5, y: -7}
+        - {x: -19.5, y: -12}
+        - {x: 8.5, y: -35}
+        - {x: 20.5, y: -35}
+        - {x: 20.5, y: -20}
+        - {x: 15.5, y: 8}
+        - {x: 9.5, y: 35}
+    - name: dbzvegetasheet_41
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 303
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 33.5}
+        - {x: -19.5, y: 8.5}
+        - {x: -19.5, y: -19.5}
+        - {x: -15.5, y: -33.5}
+        - {x: 19.5, y: -33.5}
+        - {x: 19.5, y: 21.5}
+        - {x: 18.5, y: 27.5}
+        - {x: 8.5, y: 33.5}
+    - name: dbzvegetasheet_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 296
+        width: 34
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 41.5}
+        - {x: -16, y: 41.5}
+        - {x: -17, y: 32.5}
+        - {x: -17, y: -10.5}
+        - {x: -7, y: -41.5}
+        - {x: 4, y: -41.5}
+        - {x: 17, y: -26.5}
+        - {x: 17, y: 26.5}
+        - {x: 15, y: 35.5}
+    - name: dbzvegetasheet_43
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 304
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 37}
+        - {x: -17, y: 20}
+        - {x: -17, y: -16}
+        - {x: -13, y: -37}
+        - {x: 0, y: -37}
+        - {x: 17, y: -16}
+        - {x: 17, y: 22}
+        - {x: 9, y: 37}
+    - name: dbzvegetasheet_44
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 297
+        width: 31
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzvegetasheet_45
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 297
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 37}
+        - {x: -17, y: 20}
+        - {x: -17, y: -16}
+        - {x: -13, y: -37}
+        - {x: 0, y: -37}
+        - {x: 17, y: -16}
+        - {x: 17, y: 22}
+        - {x: 9, y: 37}
+    - name: dbzvegetasheet_46
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 294
+        width: 35
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 39}
+        - {x: -17.5, y: 34}
+        - {x: -17.5, y: -8}
+        - {x: 7.5, y: -39}
+        - {x: 17.5, y: -39}
+        - {x: 17.5, y: 39}
+    - name: dbzvegetasheet_47
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 293
+        width: 31
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzvegetasheet_48
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 291
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 38.5}
+        - {x: -17.5, y: 38.5}
+        - {x: -20.5, y: 29.5}
+        - {x: -20.5, y: -38.5}
+        - {x: 20.5, y: -38.5}
+        - {x: 20.5, y: 24.5}
+        - {x: 5.5, y: 37.5}
+    - name: dbzvegetasheet_49
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 293
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzvegetasheet_50
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 294
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 30}
+        - {x: -18.5, y: 23}
+        - {x: -18.5, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 18.5, y: 2}
+        - {x: 16.5, y: 12}
+        - {x: 3.5, y: 30}
+    - name: dbzvegetasheet_51
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 294
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 29}
+        - {x: -15, y: 20}
+        - {x: -18, y: -7}
+        - {x: -18, y: -29}
+        - {x: 18, y: -29}
+        - {x: 18, y: -11}
+        - {x: 11, y: 25}
+        - {x: 5, y: 29}
+    - name: dbzvegetasheet_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 173
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 52.5}
+        - {x: -31, y: 52.5}
+        - {x: -31, y: -41.5}
+        - {x: -28, y: -52.5}
+        - {x: 17, y: -52.5}
+        - {x: 31, y: -42.5}
+        - {x: 31, y: 34.5}
+        - {x: 21, y: 49.5}
+    - name: dbzvegetasheet_53
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 270
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzvegetasheet_54
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 271
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzvegetasheet_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 175
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 38.5}
+        - {x: -19.5, y: -38.5}
+        - {x: 19.5, y: -38.5}
+        - {x: 19.5, y: 15.5}
+        - {x: 6.5, y: 38.5}
+    - name: dbzvegetasheet_56
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 175
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 10.5}
+        - {x: -26, y: -36.5}
+        - {x: 26, y: -36.5}
+        - {x: 26, y: -14.5}
+        - {x: 9, y: 34.5}
+        - {x: 6, y: 36.5}
+        - {x: -9, y: 36.5}
+        - {x: -20, y: 31.5}
+    - name: dbzvegetasheet_57
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 174
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -38.5}
+        - {x: 22, y: -38.5}
+        - {x: 22, y: 30.5}
+        - {x: 20, y: 38.5}
+        - {x: 1, y: 38.5}
+        - {x: -22, y: 9.5}
+    - name: dbzvegetasheet_58
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 174
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 40}
+        - {x: -21.5, y: 17}
+        - {x: -21.5, y: -40}
+        - {x: 21.5, y: -40}
+        - {x: 21.5, y: 25}
+        - {x: 5.5, y: 40}
+    - name: dbzvegetasheet_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 177
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -36}
+        - {x: 34, y: -16}
+        - {x: 34, y: 7}
+        - {x: 33, y: 10}
+        - {x: 12, y: 36}
+        - {x: -9, y: 36}
+        - {x: -25, y: 12}
+        - {x: -23, y: 2}
+        - {x: -21, y: 0}
+        - {x: -34, y: -22}
+        - {x: -34, y: -36}
+        - {x: -25, y: -36}
+        - {x: -18, y: -26}
+        - {x: 1, y: -35}
+        - {x: 4, y: -36}
+    - name: dbzvegetasheet_60
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 176
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 37.5}
+        - {x: -21.5, y: 13.5}
+        - {x: -21.5, y: -37.5}
+        - {x: 21.5, y: -37.5}
+        - {x: 21.5, y: 10.5}
+        - {x: 17.5, y: 35.5}
+        - {x: 9.5, y: 37.5}
+    - name: dbzvegetasheet_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 177
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -36}
+        - {x: 28, y: -27}
+        - {x: 28, y: 30}
+        - {x: 13, y: 38}
+        - {x: -18, y: 38}
+        - {x: -28, y: 26}
+        - {x: -28, y: -38}
+        - {x: -21, y: -38}
+        - {x: -14, y: -29}
+        - {x: 0, y: -33}
+        - {x: 16, y: -36}
+    - name: dbzvegetasheet_62
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 177
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 37}
+        - {x: -11, y: 37}
+        - {x: -18, y: 34}
+        - {x: -25, y: -21}
+        - {x: -25, y: -37}
+        - {x: 23, y: -37}
+        - {x: 25, y: -29}
+        - {x: 25, y: 33}
+    - name: dbzvegetasheet_63
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 181
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 36.5}
+        - {x: -21.5, y: -3.5}
+        - {x: -21.5, y: -36.5}
+        - {x: 21.5, y: -36.5}
+        - {x: 21.5, y: -14.5}
+        - {x: 12.5, y: 36.5}
+    - name: dbzvegetasheet_64
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 181
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 35.5}
+        - {x: -16, y: 19.5}
+        - {x: -16, y: -34.5}
+        - {x: -15, y: -35.5}
+        - {x: 16, y: -35.5}
+        - {x: 16, y: 1.5}
+        - {x: 8, y: 35.5}
+    - name: dbzvegetasheet_65
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 179
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 36}
+        - {x: -16, y: 30}
+        - {x: -16, y: -36}
+        - {x: 16, y: -36}
+        - {x: 16, y: 30}
+        - {x: 3, y: 36}
+    - name: dbzvegetasheet_66
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 177
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 30.5}
+        - {x: -8, y: 30.5}
+        - {x: -17, y: 11.5}
+        - {x: -17, y: -27.5}
+        - {x: -16, y: -30.5}
+        - {x: 14, y: -30.5}
+        - {x: 17, y: -29.5}
+        - {x: 17, y: 22.5}
+        - {x: 12, y: 29.5}
+    - name: dbzvegetasheet_67
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: dbzvegetasheet_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 35}
+        - {x: -24.5, y: 35}
+        - {x: -26.5, y: 31}
+        - {x: -26.5, y: 13}
+        - {x: -23.5, y: 10}
+        - {x: -26.5, y: -22}
+        - {x: -26.5, y: -35}
+        - {x: -15.5, y: -35}
+        - {x: -6.5, y: -26}
+        - {x: 7.5, y: -35}
+        - {x: 26.5, y: -35}
+    - name: dbzvegetasheet_69
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 91
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -36}
+        - {x: 18, y: 23}
+        - {x: -5, y: 38}
+        - {x: -16, y: 38}
+        - {x: -18, y: 35}
+        - {x: -18, y: -38}
+        - {x: -12, y: -38}
+        - {x: -5, y: -30}
+        - {x: -1, y: -33}
+        - {x: 7, y: -38}
+    - name: dbzvegetasheet_70
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 92
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -36}
+        - {x: 13, y: -14}
+        - {x: 21, y: -3}
+        - {x: 21, y: 24}
+        - {x: -8, y: 38}
+        - {x: -18, y: 38}
+        - {x: -21, y: 34}
+        - {x: -21, y: -38}
+        - {x: -15, y: -38}
+        - {x: -8, y: -30}
+        - {x: -4, y: -33}
+        - {x: 4, y: -38}
+    - name: dbzvegetasheet_71
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 90
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -38}
+        - {x: 24, y: -11}
+        - {x: 24, y: 27}
+        - {x: -3, y: 38}
+        - {x: -23, y: 38}
+        - {x: -24, y: 36}
+        - {x: -24, y: -38}
+        - {x: -18, y: -38}
+        - {x: -11, y: -30}
+        - {x: -7, y: -33}
+        - {x: 1, y: -38}
+    - name: dbzvegetasheet_72
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 91
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 38}
+        - {x: -22, y: 38}
+        - {x: -24, y: 35}
+        - {x: -24, y: -38}
+        - {x: 24, y: -38}
+        - {x: 24, y: 29}
+        - {x: 20, y: 34}
+    - name: dbzvegetasheet_73
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 92
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: -38}
+        - {x: 25.5, y: 2}
+        - {x: 25.5, y: 25}
+        - {x: 24.5, y: 25}
+        - {x: 3.5, y: 38}
+        - {x: -25.5, y: 38}
+        - {x: -25.5, y: -38}
+        - {x: -19.5, y: -38}
+        - {x: -12.5, y: -30}
+        - {x: -8.5, y: -33}
+        - {x: -0.5, y: -38}
+    - name: dbzvegetasheet_74
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 90
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -37}
+        - {x: 29, y: -9}
+        - {x: 29, y: 8}
+        - {x: 24, y: 19}
+        - {x: 6, y: 39}
+        - {x: -22, y: 39}
+        - {x: -25, y: 37}
+        - {x: -29, y: 29}
+        - {x: -29, y: -39}
+        - {x: -23, y: -39}
+        - {x: -16, y: -31}
+        - {x: -12, y: -34}
+        - {x: -4, y: -39}
+    - name: dbzvegetasheet_75
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 90
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 38}
+        - {x: -28, y: 38}
+        - {x: -28, y: -38}
+        - {x: -4, y: -38}
+        - {x: 8, y: -36}
+        - {x: 28, y: 1}
+        - {x: 28, y: 32}
+    - name: dbzvegetasheet_76
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 90
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 40}
+        - {x: -23, y: 40}
+        - {x: -23, y: -40}
+        - {x: 11, y: -40}
+        - {x: 10, y: -36}
+        - {x: 23, y: 4}
+        - {x: 23, y: 31}
+    - name: dbzvegetasheet_77
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 91
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 36}
+        - {x: -2, y: 40}
+        - {x: -22, y: 40}
+        - {x: -22, y: -40}
+        - {x: 16, y: -40}
+        - {x: 22, y: 1}
+        - {x: 22, y: 36}
+        - {x: 19, y: 37}
+    - name: dbzvegetasheet_78
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 88
+        width: 25
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzvegetasheet_79
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 100
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzvegetasheet_80
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 3
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 56}
+        - {x: -31, y: -56}
+        - {x: 29, y: -56}
+        - {x: 31, y: -54}
+        - {x: 31, y: 56}
+    - name: dbzvegetasheet_81
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 73
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzvegetasheet_82
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3
+        width: 204
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 40}
+        - {x: -99, y: 31}
+        - {x: -102, y: 19}
+        - {x: -102, y: -20}
+        - {x: -97, y: -29}
+        - {x: -78, y: -40}
+        - {x: -15, y: -40}
+        - {x: 102, y: -13}
+        - {x: 102, y: 13}
+        - {x: -49, y: 40}
+    - name: dbzvegetasheet_83
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 4
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -36}
+        - {x: 17, y: 12}
+        - {x: 1, y: 38}
+        - {x: -17, y: 38}
+        - {x: -17, y: -38}
+        - {x: -11, y: -38}
+        - {x: -4, y: -30}
+        - {x: 0, y: -33}
+        - {x: 8, y: -38}
+    - name: dbzvegetasheet_84
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 3
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 18}
+        - {x: -1, y: 36}
+        - {x: -7, y: 40}
+        - {x: -23, y: 40}
+        - {x: -23, y: -40}
+        - {x: 11, y: -40}
+        - {x: 10, y: -36}
+        - {x: 23, y: 4}
+        - {x: 23, y: 18}
+    - name: dbzvegetasheet_85
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 5
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 38}
+        - {x: -18, y: 37}
+        - {x: -18, y: -38}
+        - {x: 18, y: -38}
+        - {x: 18, y: 36}
+        - {x: 5, y: 38}
+    - name: dbzvegetasheet_86
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 4
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 40}
+        - {x: -16, y: -40}
+        - {x: 16, y: -40}
+        - {x: 16, y: 38}
+        - {x: 15, y: 40}
+    - name: dbzvegetasheet_87
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 5
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzvegetasheet_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 26
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -24, y: 6}
+        - {x: -24, y: -14}
+        - {x: -15, y: -16}
+        - {x: 24, y: -16}
+        - {x: 24, y: 13}
+        - {x: 23, y: 16}
+    - name: dbzvegetasheet_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 19
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -33, y: 17}
+        - {x: -35, y: 7}
+        - {x: -35, y: -5}
+        - {x: -4, y: -24}
+        - {x: 27, y: -24}
+        - {x: 35, y: -14}
+        - {x: 35, y: 16}
+        - {x: 29, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

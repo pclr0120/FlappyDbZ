@@ -1,0 +1,1422 @@
+fileFormatVersion: 2
+guid: 09218fbbdfb1f41e08de4930b4c45339
+timeCreated: 1460089322
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dbzgotenkssheet_0
+    21300002: dbzgotenkssheet_1
+    21300004: dbzgotenkssheet_2
+    21300006: dbzgotenkssheet_3
+    21300008: dbzgotenkssheet_4
+    21300010: dbzgotenkssheet_5
+    21300012: dbzgotenkssheet_6
+    21300014: dbzgotenkssheet_7
+    21300016: dbzgotenkssheet_8
+    21300018: dbzgotenkssheet_9
+    21300020: dbzgotenkssheet_10
+    21300022: dbzgotenkssheet_11
+    21300024: dbzgotenkssheet_12
+    21300026: dbzgotenkssheet_13
+    21300028: dbzgotenkssheet_14
+    21300030: dbzgotenkssheet_15
+    21300032: dbzgotenkssheet_16
+    21300034: dbzgotenkssheet_17
+    21300036: dbzgotenkssheet_18
+    21300038: dbzgotenkssheet_19
+    21300040: dbzgotenkssheet_20
+    21300042: dbzgotenkssheet_21
+    21300044: dbzgotenkssheet_22
+    21300046: dbzgotenkssheet_23
+    21300048: dbzgotenkssheet_24
+    21300050: dbzgotenkssheet_25
+    21300052: dbzgotenkssheet_26
+    21300054: dbzgotenkssheet_27
+    21300056: dbzgotenkssheet_28
+    21300058: dbzgotenkssheet_29
+    21300060: dbzgotenkssheet_30
+    21300062: dbzgotenkssheet_31
+    21300064: dbzgotenkssheet_32
+    21300066: dbzgotenkssheet_33
+    21300068: dbzgotenkssheet_34
+    21300070: dbzgotenkssheet_35
+    21300072: dbzgotenkssheet_36
+    21300074: dbzgotenkssheet_37
+    21300076: dbzgotenkssheet_38
+    21300078: dbzgotenkssheet_39
+    21300080: dbzgotenkssheet_40
+    21300082: dbzgotenkssheet_41
+    21300084: dbzgotenkssheet_42
+    21300086: dbzgotenkssheet_43
+    21300088: dbzgotenkssheet_44
+    21300090: dbzgotenkssheet_45
+    21300092: dbzgotenkssheet_46
+    21300094: dbzgotenkssheet_47
+    21300096: dbzgotenkssheet_48
+    21300098: dbzgotenkssheet_49
+    21300100: dbzgotenkssheet_50
+    21300102: dbzgotenkssheet_51
+    21300104: dbzgotenkssheet_52
+    21300106: dbzgotenkssheet_53
+    21300108: dbzgotenkssheet_54
+    21300110: dbzgotenkssheet_55
+    21300112: dbzgotenkssheet_56
+    21300114: dbzgotenkssheet_57
+    21300116: dbzgotenkssheet_58
+    21300118: dbzgotenkssheet_59
+    21300120: dbzgotenkssheet_60
+    21300122: dbzgotenkssheet_61
+    21300124: dbzgotenkssheet_62
+    21300126: dbzgotenkssheet_63
+    21300128: dbzgotenkssheet_64
+    21300130: dbzgotenkssheet_65
+    21300132: dbzgotenkssheet_66
+    21300134: dbzgotenkssheet_67
+    21300136: dbzgotenkssheet_68
+    21300138: dbzgotenkssheet_69
+    21300140: dbzgotenkssheet_70
+    21300142: dbzgotenkssheet_71
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dbzgotenkssheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 353
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 29}
+        - {x: -18, y: 24}
+        - {x: -18, y: -29}
+        - {x: 18, y: -29}
+        - {x: 18, y: 22}
+        - {x: 5, y: 29}
+    - name: dbzgotenkssheet_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 353
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 33.5}
+        - {x: -13, y: 33.5}
+        - {x: -16, y: 30.5}
+        - {x: -16, y: -33.5}
+        - {x: 16, y: -33.5}
+        - {x: 16, y: -9.5}
+        - {x: 12, y: 31.5}
+    - name: dbzgotenkssheet_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 353
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 20}
+        - {x: 18, y: 26}
+        - {x: -7, y: 26}
+        - {x: -19, y: 0}
+        - {x: -19, y: -26}
+        - {x: 19, y: -26}
+    - name: dbzgotenkssheet_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 353
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 26}
+        - {x: -19.5, y: -12}
+        - {x: -19.5, y: -26}
+        - {x: 19.5, y: -26}
+        - {x: 19.5, y: 18}
+        - {x: 12.5, y: 26}
+    - name: dbzgotenkssheet_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 353
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 25.5}
+        - {x: -19, y: 19.5}
+        - {x: -19, y: -25.5}
+        - {x: 19, y: -25.5}
+        - {x: 19, y: 20.5}
+        - {x: 13, y: 25.5}
+    - name: dbzgotenkssheet_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 353
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 26}
+        - {x: -20.5, y: 15}
+        - {x: -20.5, y: -26}
+        - {x: 20.5, y: -26}
+        - {x: 20.5, y: 16}
+        - {x: 16.5, y: 26}
+    - name: dbzgotenkssheet_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 353
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 26}
+        - {x: -14.5, y: 22}
+        - {x: -21.5, y: 15}
+        - {x: -21.5, y: -26}
+        - {x: 21.5, y: -26}
+        - {x: 21.5, y: 23}
+        - {x: 15.5, y: 26}
+    - name: dbzgotenkssheet_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 353
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 28}
+        - {x: -24, y: 16}
+        - {x: -24, y: -28}
+        - {x: 12, y: -28}
+        - {x: 18, y: -27}
+        - {x: 24, y: -23}
+        - {x: 24, y: 28}
+    - name: dbzgotenkssheet_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 353
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 28.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -22.5, y: -28.5}
+        - {x: 23.5, y: -28.5}
+        - {x: 24.5, y: -20.5}
+        - {x: 24.5, y: 18.5}
+        - {x: 13.5, y: 28.5}
+    - name: dbzgotenkssheet_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 353
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 28.5}
+        - {x: -26, y: 23.5}
+        - {x: -26, y: -19.5}
+        - {x: -21, y: -28.5}
+        - {x: 24, y: -28.5}
+        - {x: 26, y: -21.5}
+        - {x: 26, y: 22.5}
+        - {x: 22, y: 28.5}
+    - name: dbzgotenkssheet_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 353
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -27.5}
+        - {x: 7, y: -28.5}
+        - {x: 22, y: -28.5}
+        - {x: 26, y: -13.5}
+        - {x: 26, y: 21.5}
+        - {x: 17, y: 28.5}
+        - {x: -15, y: 28.5}
+        - {x: -24, y: 25.5}
+        - {x: -26, y: 15.5}
+        - {x: -26, y: -23.5}
+        - {x: -20, y: -28.5}
+        - {x: -6, y: -28.5}
+        - {x: 0, y: -22.5}
+        - {x: 2, y: -25.5}
+    - name: dbzgotenkssheet_11
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 353
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 28}
+        - {x: -24.5, y: 11}
+        - {x: -24.5, y: -28}
+        - {x: 24.5, y: -28}
+        - {x: 24.5, y: 20}
+        - {x: 17.5, y: 28}
+    - name: dbzgotenkssheet_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 289
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 31.5}
+        - {x: -18, y: 22.5}
+        - {x: -18, y: -18.5}
+        - {x: -9, y: -31.5}
+        - {x: 12, y: -31.5}
+        - {x: 18, y: -23.5}
+        - {x: 18, y: 23.5}
+        - {x: 14, y: 31.5}
+    - name: dbzgotenkssheet_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 289
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 31.5}
+        - {x: -19.5, y: 30.5}
+        - {x: -19.5, y: -31.5}
+        - {x: 19.5, y: -31.5}
+        - {x: 19.5, y: 28.5}
+        - {x: 17.5, y: 31.5}
+    - name: dbzgotenkssheet_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 289
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 32}
+        - {x: -17.5, y: 25}
+        - {x: -17.5, y: -32}
+        - {x: 17.5, y: -32}
+        - {x: 17.5, y: 27}
+        - {x: 15.5, y: 32}
+    - name: dbzgotenkssheet_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 289
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 31.5}
+        - {x: -19, y: 19.5}
+        - {x: -19, y: -22.5}
+        - {x: -9, y: -31.5}
+        - {x: 15, y: -31.5}
+        - {x: 19, y: -22.5}
+        - {x: 19, y: 21.5}
+        - {x: 14, y: 31.5}
+    - name: dbzgotenkssheet_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 289
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 31.5}
+        - {x: -20, y: 19.5}
+        - {x: -20, y: -17.5}
+        - {x: -10, y: -31.5}
+        - {x: 19, y: -31.5}
+        - {x: 20, y: -28.5}
+        - {x: 20, y: 13.5}
+        - {x: 14, y: 31.5}
+    - name: dbzgotenkssheet_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 289
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 32}
+        - {x: -18.5, y: 20}
+        - {x: -18.5, y: -17}
+        - {x: -11.5, y: -32}
+        - {x: 18.5, y: -32}
+        - {x: 18.5, y: 32}
+    - name: dbzgotenkssheet_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 289
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 30}
+        - {x: -24, y: 27}
+        - {x: -24, y: -8}
+        - {x: -20, y: -24}
+        - {x: -17, y: -30}
+        - {x: 13, y: -30}
+        - {x: 24, y: -18}
+        - {x: 24, y: 17}
+        - {x: 5, y: 30}
+    - name: dbzgotenkssheet_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 293
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 28}
+        - {x: -24, y: 22}
+        - {x: -24, y: -4}
+        - {x: -8, y: -26}
+        - {x: -5, y: -28}
+        - {x: 6, y: -28}
+        - {x: 17, y: -18}
+        - {x: 24, y: -7}
+        - {x: 24, y: 28}
+    - name: dbzgotenkssheet_20
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 293
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 13.5}
+        - {x: 7.5, y: 27.5}
+        - {x: -13.5, y: 27.5}
+        - {x: -22.5, y: 26.5}
+        - {x: -30.5, y: 16.5}
+        - {x: -30.5, y: -7.5}
+        - {x: -10.5, y: -27.5}
+        - {x: 6.5, y: -27.5}
+        - {x: 8.5, y: -26.5}
+        - {x: 29.5, y: -0.5}
+        - {x: 30.5, y: 1.5}
+        - {x: 30.5, y: 12.5}
+    - name: dbzgotenkssheet_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 289
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 29.5}
+        - {x: -7.5, y: 29.5}
+        - {x: -8.5, y: 28.5}
+        - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -9.5, y: -29.5}
+        - {x: 8.5, y: -29.5}
+        - {x: 24.5, y: 0.5}
+        - {x: 24.5, y: 18.5}
+    - name: dbzgotenkssheet_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 290
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 27}
+        - {x: -21.5, y: 16}
+        - {x: -21.5, y: -27}
+        - {x: 21.5, y: -27}
+        - {x: 21.5, y: 12}
+        - {x: 12.5, y: 27}
+    - name: dbzgotenkssheet_23
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 289
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 28}
+        - {x: -16, y: 28}
+        - {x: -24, y: 13}
+        - {x: -24, y: -27}
+        - {x: -22, y: -28}
+        - {x: 18, y: -28}
+        - {x: 24, y: -26}
+        - {x: 24, y: 9}
+    - name: dbzgotenkssheet_24
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 289
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 28}
+        - {x: -16, y: 28}
+        - {x: -24, y: 13}
+        - {x: -24, y: -27}
+        - {x: -22, y: -28}
+        - {x: 18, y: -28}
+        - {x: 24, y: -26}
+        - {x: 24, y: 9}
+    - name: dbzgotenkssheet_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 221
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 31.5}
+        - {x: -30, y: 26.5}
+        - {x: -30, y: -17.5}
+        - {x: -20, y: -31.5}
+        - {x: 25, y: -31.5}
+        - {x: 30, y: -27.5}
+        - {x: 30, y: 31.5}
+    - name: dbzgotenkssheet_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 221
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 32}
+        - {x: -31, y: 32}
+        - {x: -31, y: -8}
+        - {x: -27, y: -18}
+        - {x: -19, y: -32}
+        - {x: 29, y: -32}
+        - {x: 31, y: -22}
+        - {x: 31, y: 28}
+        - {x: 30, y: 29}
+    - name: dbzgotenkssheet_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 221
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 31}
+        - {x: -21, y: 31}
+        - {x: -30, y: 26}
+        - {x: -31, y: 25}
+        - {x: -31, y: -22}
+        - {x: -23, y: -31}
+        - {x: 27, y: -31}
+        - {x: 31, y: -20}
+        - {x: 31, y: 20}
+    - name: dbzgotenkssheet_28
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 221
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 31.5}
+        - {x: -30, y: 26.5}
+        - {x: -30, y: -17.5}
+        - {x: -20, y: -31.5}
+        - {x: 25, y: -31.5}
+        - {x: 30, y: -27.5}
+        - {x: 30, y: 31.5}
+    - name: dbzgotenkssheet_29
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 221
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 32}
+        - {x: -31, y: 32}
+        - {x: -31, y: -8}
+        - {x: -27, y: -18}
+        - {x: -19, y: -32}
+        - {x: 29, y: -32}
+        - {x: 31, y: -22}
+        - {x: 31, y: 28}
+        - {x: 30, y: 29}
+    - name: dbzgotenkssheet_30
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 220
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 31}
+        - {x: -21, y: 31}
+        - {x: -30, y: 26}
+        - {x: -31, y: 25}
+        - {x: -31, y: -29}
+        - {x: -28, y: -31}
+        - {x: 30, y: -31}
+        - {x: 31, y: -24}
+        - {x: 31, y: 23}
+    - name: dbzgotenkssheet_31
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 220
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 30}
+        - {x: -24, y: 27}
+        - {x: -24, y: -8}
+        - {x: -20, y: -24}
+        - {x: -17, y: -30}
+        - {x: 13, y: -30}
+        - {x: 24, y: -18}
+        - {x: 24, y: 17}
+        - {x: 5, y: 30}
+    - name: dbzgotenkssheet_32
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 220
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 25}
+        - {x: -31, y: 22}
+        - {x: -31, y: -25}
+        - {x: 17, y: -25}
+        - {x: 31, y: -19}
+        - {x: 31, y: 17}
+        - {x: 18, y: 25}
+    - name: dbzgotenkssheet_33
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 220
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: -25.5}
+        - {x: 12.5, y: -27.5}
+        - {x: 22.5, y: -27.5}
+        - {x: 22.5, y: 27.5}
+        - {x: -15.5, y: 27.5}
+        - {x: -22.5, y: 10.5}
+        - {x: -22.5, y: -26.5}
+        - {x: -20.5, y: -27.5}
+        - {x: -4.5, y: -27.5}
+        - {x: 1.5, y: -22.5}
+        - {x: 4.5, y: -19.5}
+    - name: dbzgotenkssheet_34
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 149
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 34}
+        - {x: -18.5, y: -26}
+        - {x: -16.5, y: -34}
+        - {x: 18.5, y: -34}
+        - {x: 18.5, y: 32}
+        - {x: 16.5, y: 34}
+    - name: dbzgotenkssheet_35
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -25.5}
+        - {x: 23.5, y: -25.5}
+        - {x: 23.5, y: 3.5}
+        - {x: 21.5, y: 22.5}
+        - {x: 19.5, y: 25.5}
+        - {x: -11.5, y: 25.5}
+        - {x: -23.5, y: 17.5}
+    - name: dbzgotenkssheet_36
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 150
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 26}
+        - {x: -29, y: 26}
+        - {x: -29, y: -26}
+        - {x: 17, y: -26}
+        - {x: 21, y: -24}
+        - {x: 29, y: -5}
+        - {x: 29, y: 19}
+    - name: dbzgotenkssheet_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 150
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 26.5}
+        - {x: -23.5, y: 23.5}
+        - {x: -23.5, y: -26.5}
+        - {x: 23.5, y: -26.5}
+        - {x: 23.5, y: 15.5}
+        - {x: 20.5, y: 26.5}
+    - name: dbzgotenkssheet_38
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 153
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 26}
+        - {x: -31.5, y: 20}
+        - {x: -31.5, y: -26}
+        - {x: 25.5, y: -26}
+        - {x: 31.5, y: -4}
+        - {x: 31.5, y: 15}
+        - {x: 15.5, y: 26}
+    - name: dbzgotenkssheet_39
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 153
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 26.5}
+        - {x: -23.5, y: 23.5}
+        - {x: -23.5, y: -26.5}
+        - {x: 23.5, y: -26.5}
+        - {x: 23.5, y: 15.5}
+        - {x: 20.5, y: 26.5}
+    - name: dbzgotenkssheet_40
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 157
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 29.5}
+        - {x: -19, y: 23.5}
+        - {x: -19, y: -22.5}
+        - {x: -8, y: -29.5}
+        - {x: 3, y: -29.5}
+        - {x: 15, y: -15.5}
+        - {x: 19, y: 0.5}
+        - {x: 19, y: 29.5}
+    - name: dbzgotenkssheet_41
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 168
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 23.5}
+        - {x: -20, y: 17.5}
+        - {x: -20, y: -19.5}
+        - {x: -14, y: -23.5}
+        - {x: 14, y: -23.5}
+        - {x: 20, y: -14.5}
+        - {x: 20, y: 23.5}
+    - name: dbzgotenkssheet_42
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 143
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 37}
+        - {x: -14.5, y: 37}
+        - {x: -22.5, y: 34}
+        - {x: -22.5, y: 2}
+        - {x: -5.5, y: -37}
+        - {x: 11.5, y: -37}
+        - {x: 22.5, y: -22}
+        - {x: 22.5, y: 28}
+        - {x: 20.5, y: 36}
+    - name: dbzgotenkssheet_43
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 150
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32}
+        - {x: -17, y: 28}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 32}
+    - name: dbzgotenkssheet_44
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 150
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32}
+        - {x: -17, y: 28}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 32}
+    - name: dbzgotenkssheet_45
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 150
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32}
+        - {x: -17, y: 28}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 32}
+    - name: dbzgotenkssheet_46
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 150
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32}
+        - {x: -17, y: 28}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 32}
+    - name: dbzgotenkssheet_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 28}
+        - {x: -25.5, y: 20}
+        - {x: -25.5, y: -27}
+        - {x: -22.5, y: -28}
+        - {x: 20.5, y: -28}
+        - {x: 25.5, y: -22}
+        - {x: 25.5, y: 27}
+        - {x: 21.5, y: 28}
+    - name: dbzgotenkssheet_48
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 85
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 30}
+        - {x: -18.5, y: 28}
+        - {x: -22.5, y: 17}
+        - {x: -22.5, y: -5}
+        - {x: -21.5, y: -11}
+        - {x: -14.5, y: -30}
+        - {x: 22.5, y: -30}
+        - {x: 22.5, y: 17}
+        - {x: 13.5, y: 30}
+    - name: dbzgotenkssheet_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 84
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 27.5}
+        - {x: -22.5, y: 13.5}
+        - {x: -22.5, y: -27.5}
+        - {x: 20.5, y: -27.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 22.5, y: 25.5}
+        - {x: 20.5, y: 27.5}
+    - name: dbzgotenkssheet_50
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 86
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 27}
+        - {x: -22, y: 27}
+        - {x: -26, y: 21}
+        - {x: -26, y: -23}
+        - {x: -24, y: -27}
+        - {x: 2, y: -27}
+        - {x: 24, y: -19}
+        - {x: 26, y: -8}
+        - {x: 26, y: 19}
+    - name: dbzgotenkssheet_51
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 86
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 26}
+        - {x: -26, y: -26}
+        - {x: 15, y: -26}
+        - {x: 26, y: -17}
+        - {x: 26, y: 26}
+    - name: dbzgotenkssheet_52
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 86
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 26.5}
+        - {x: -19, y: 26.5}
+        - {x: -26, y: 20.5}
+        - {x: -26, y: 1.5}
+        - {x: -14, y: -6.5}
+        - {x: -12, y: -6.5}
+        - {x: -14, y: -6.5}
+        - {x: -17, y: -10.5}
+        - {x: -26, y: -19.5}
+        - {x: -26, y: -22.5}
+        - {x: -24, y: -26.5}
+        - {x: 3, y: -26.5}
+        - {x: 26, y: -11.5}
+        - {x: 26, y: 24.5}
+    - name: dbzgotenkssheet_53
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 86
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -30}
+        - {x: 21, y: -30}
+        - {x: 21, y: 21}
+        - {x: 20, y: 30}
+        - {x: -14, y: 30}
+        - {x: -21, y: 16}
+    - name: dbzgotenkssheet_54
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 90
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 26}
+        - {x: -16, y: -26}
+        - {x: 12, y: -26}
+        - {x: 16, y: -21}
+        - {x: 16, y: 18}
+        - {x: 10, y: 26}
+    - name: dbzgotenkssheet_55
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 90
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 26}
+        - {x: -16, y: -26}
+        - {x: 12, y: -26}
+        - {x: 16, y: -21}
+        - {x: 16, y: 18}
+        - {x: 10, y: 26}
+    - name: dbzgotenkssheet_56
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 90
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzgotenkssheet_57
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 90
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzgotenkssheet_58
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 90
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzgotenkssheet_59
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 90
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbzgotenkssheet_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 31}
+        - {x: -23.5, y: -26}
+        - {x: -16.5, y: -31}
+        - {x: 23.5, y: -31}
+        - {x: 23.5, y: 8}
+        - {x: 5.5, y: 31}
+    - name: dbzgotenkssheet_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 25.5}
+        - {x: -26.5, y: 24.5}
+        - {x: -26.5, y: -22.5}
+        - {x: -16.5, y: -25.5}
+        - {x: 21.5, y: -25.5}
+        - {x: 26.5, y: -20.5}
+        - {x: 26.5, y: 8.5}
+        - {x: 18.5, y: 25.5}
+    - name: dbzgotenkssheet_62
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 28}
+        - {x: -26, y: 23}
+        - {x: -26, y: -18}
+        - {x: -24, y: -28}
+        - {x: -2, y: -28}
+        - {x: 1, y: -27}
+        - {x: 26, y: -18}
+        - {x: 26, y: 19}
+        - {x: 19, y: 28}
+    - name: dbzgotenkssheet_63
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 29.5}
+        - {x: -22, y: -29.5}
+        - {x: -3, y: -29.5}
+        - {x: 17, y: -23.5}
+        - {x: 22, y: -19.5}
+        - {x: 22, y: 25.5}
+        - {x: 20, y: 29.5}
+    - name: dbzgotenkssheet_64
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30.5}
+        - {x: -29, y: 10.5}
+        - {x: -29, y: -30.5}
+        - {x: 17, y: -30.5}
+        - {x: 29, y: -15.5}
+        - {x: 29, y: 22.5}
+        - {x: 19, y: 30.5}
+    - name: dbzgotenkssheet_65
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 24.5}
+        - {x: -30.5, y: 24.5}
+        - {x: -30.5, y: -13.5}
+        - {x: -25.5, y: -22.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 25.5, y: -24.5}
+        - {x: 30.5, y: -9.5}
+        - {x: 30.5, y: 16.5}
+        - {x: 21.5, y: 19.5}
+    - name: dbzgotenkssheet_66
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 18.5}
+        - {x: -25, y: 17.5}
+        - {x: -25, y: -18.5}
+        - {x: 25, y: -18.5}
+        - {x: 25, y: 18.5}
+    - name: dbzgotenkssheet_67
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 31.5}
+        - {x: -20.5, y: -31.5}
+        - {x: 20.5, y: -31.5}
+        - {x: 20.5, y: 31.5}
+    - name: dbzgotenkssheet_68
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 39}
+        - {x: -28.5, y: 29}
+        - {x: -28.5, y: -2}
+        - {x: 2.5, y: -39}
+        - {x: 28.5, y: -39}
+        - {x: 28.5, y: 10}
+        - {x: 6.5, y: 39}
+    - name: dbzgotenkssheet_69
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 35
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 23.5}
+        - {x: -20, y: 22.5}
+        - {x: -20, y: -9.5}
+        - {x: -19, y: -16.5}
+        - {x: -11, y: -23.5}
+        - {x: 8, y: -23.5}
+        - {x: 20, y: -16.5}
+        - {x: 20, y: 19.5}
+        - {x: 16, y: 23.5}
+    - name: dbzgotenkssheet_70
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 6
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 37}
+        - {x: -20.5, y: 37}
+        - {x: -22.5, y: 29}
+        - {x: -22.5, y: -16}
+        - {x: -18.5, y: -24}
+        - {x: -8.5, y: -37}
+        - {x: 5.5, y: -37}
+        - {x: 9.5, y: -28}
+        - {x: 22.5, y: 5}
+        - {x: 22.5, y: 35}
+    - name: dbzgotenkssheet_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
